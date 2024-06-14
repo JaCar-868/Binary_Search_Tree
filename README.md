@@ -77,4 +77,4 @@ git push origin feature-branch
 5. Open a Pull Request
    
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/JaCar-868/Disease-Progression/blob/main/LICENSE) file for details.
