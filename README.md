@@ -18,10 +18,12 @@ git clone https://github.com/your-username/binary-search-tree.git
 
 cd binary-search-tree
 
+
 2. Installation
 Ensure you have Python and Jupyter Notebook installed. If not, you can install them using pip:
 
 pip install notebook
+
 
 3. Run the Notebook
 Launch Jupyter Notebook and open Binary Search Tree.ipynb:
