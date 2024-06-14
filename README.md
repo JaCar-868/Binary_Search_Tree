@@ -15,6 +15,7 @@ Binary Search Tree.ipynb: Jupyter Notebook containing the implementation of the 
 1. Clone the Repository
 
 git clone https://github.com/your-username/binary-search-tree.git
+
 cd binary-search-tree
 
 2. Installation
